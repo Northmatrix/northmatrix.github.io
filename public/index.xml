@@ -2,22 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jamie&#39;s Blog</title>
-    <link>http://localhost:36185/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Jamie&#39;s Blog</description>
     <image>
       <title>Jamie&#39;s Blog</title>
-      <url>http://localhost:36185/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:36185/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 02:01:24 +0100</lastBuildDate>
-    <atom:link href="http://localhost:36185/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Apr 2026 22:49:18 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Ctf Journey</title>
+      <link>http://localhost:1313/posts/my-ctf-journey/</link>
+      <pubDate>Fri, 03 Apr 2026 22:49:18 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-ctf-journey/</guid>
+      <description>&lt;p&gt;At university i attend a hacking club where i sometimes compete in Capture the flag competitions.
+The main areas that i focus on in these ctfs are cryptography and binary exploitation.&lt;/p&gt;
+&lt;h2 id=&#34;ctf-events&#34;&gt;Ctf events&lt;/h2&gt;
+&lt;p&gt;Some recent ctfs  i have attended include the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Pwned7 Quals - (Orginized by Uni of Edinbrugh hacking society)&lt;/li&gt;
+&lt;li&gt;Sheffield Siege - (Organized by Sheffield Hallam university)&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:36185/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Mon, 30 Mar 2026 02:01:24 +0100</pubDate>
-      <guid>http://localhost:36185/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;who-am-i&#34;&gt;Who am i&lt;/h2&gt;
 &lt;p&gt;My name is Jamie Grant and i am a student studying a Mathematics Bsc at university.&lt;/p&gt;
 &lt;h2 id=&#34;what-i-do&#34;&gt;What i do&lt;/h2&gt;
@@ -27,14 +41,16 @@
 &lt;li&gt;Cryptography&lt;/li&gt;
 &lt;li&gt;Hacking, Binary Analysis and System Explotation&lt;/li&gt;
 &lt;li&gt;Ham Radio&lt;/li&gt;
+&lt;li&gt;Programming in python, rust, c and sometimes x86_64 assembly&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;my-goals&#34;&gt;My goals&lt;/h2&gt;
 &lt;p&gt;My goals for the next few years include the following:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Gain a deeper underestanding of electromagnetics, optics and quantum&lt;/li&gt;
+&lt;li&gt;Gain a underestanding of quantum mechanics (Griffiths)&lt;/li&gt;
+&lt;li&gt;Increase my knowledge of electromagnetics, circuts and optics.&lt;/li&gt;
 &lt;li&gt;Gain pratical experience with soldering and electronics&lt;/li&gt;
 &lt;li&gt;Earn a RSGB radio intermediate license and build a QRP QMX radio kit&lt;/li&gt;
-&lt;li&gt;Gain a full understanding of post quantum cryptography&lt;/li&gt;
+&lt;li&gt;Gain a full understanding of post quantum cryptography ( )&lt;/li&gt;
 &lt;/ol&gt;</description>
     </item>
   </channel>
