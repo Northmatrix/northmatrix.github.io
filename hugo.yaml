@@ -1,4 +1,4 @@
-baseURL: "https://jamiegrant.github.io/"
+baseURL: "https://jrgranite.github.io/"
 title: Jamie's Blog
 paginatation.pagerSize: 5
 theme: PaperMod
@@ -14,8 +14,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Jamie's Blog
+  description: "My little blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Jamie
   # author: ["Me", "You"] # multiple authors
@@ -24,12 +24,12 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false # true
   ShowShareButtons: false # true
   ShowPostNavLinks: false # true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -72,15 +72,15 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Jamie's Blog"
-    Content: Welcome to my blog
+    Content: Welcome to my small blog full of things that i find interesting.
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
+   # - name: x
+   #   url: "https://x.com/"
    #- name: stackoverflow
    #  url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/jrgranite"
 
   analytics:
     google:
@@ -95,10 +95,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/jrgranite/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html

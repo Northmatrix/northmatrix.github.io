@@ -11,39 +11,30 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 02:02:03 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 02:01:24 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Third Post</title>
-      <link>http://localhost:1313/posts/my-third-post/</link>
-      <pubDate>Mon, 30 Mar 2026 02:02:03 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-third-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My Second Post</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Mon, 30 Mar 2026 02:01:38 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description></description>
-    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Mon, 30 Mar 2026 02:01:24 +0100</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;this-is-my-main-title&#34;&gt;This is my main title&lt;/h1&gt;
-&lt;p&gt;This is a very important line.&lt;/p&gt;
-&lt;p&gt;This is some bullet points.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;who-am-i&#34;&gt;Who am i&lt;/h2&gt;
+&lt;p&gt;My name is Jamie Grant and i am a student studying a Mathematics Bsc at university.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-do&#34;&gt;What i do&lt;/h2&gt;
+&lt;p&gt;My hobbies include but are not limited to:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Hello&lt;/li&gt;
-&lt;li&gt;Goodbye&lt;/li&gt;
-&lt;li&gt;Weiner&lt;/li&gt;
+&lt;li&gt;Mathematics&lt;/li&gt;
+&lt;li&gt;Cryptography&lt;/li&gt;
+&lt;li&gt;Hacking, Binary Analysis and System Explotation&lt;/li&gt;
+&lt;li&gt;Ham Radio&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;this-is-some-code&#34;&gt;This is some code&lt;/h1&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python3&#34; data-lang=&#34;python3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+&lt;h2 id=&#34;my-goals&#34;&gt;My goals&lt;/h2&gt;
+&lt;p&gt;My goals for the next few years include the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Gain a deeper underestanding of electromagnetics, optics and quantum&lt;/li&gt;
+&lt;li&gt;Gain pratical experience with soldering and electronics&lt;/li&gt;
+&lt;li&gt;Earn a RSGB radio intermediate license and build a QRP QMX radio kit&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

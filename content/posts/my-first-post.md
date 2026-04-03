@@ -4,17 +4,24 @@ draft: false
 title: 'My First Post'
 ---
 
-# This is my first post 
 
-I like maths, history, computer science and physics.
+## Who am i 
 
-# What i will post
+My name is Jamie Grant and i am a student studying a Mathematics Bsc at university.
 
-On this blog i will post content related to programming, hardware, software, and maths. 
+## What i do
 
-```python
-for x in range(10):
-    print(x)
-```
+My hobbies include but are not limited to:
 
-This is just a test to see if language markup is working.
+1. Mathematics
+2. Cryptography
+3. Hacking, Binary Analysis and System Explotation
+4. Ham Radio
+
+## My goals
+
+My goals for the next few years include the following:
+
+1. Gain a deeper underestanding of electromagnetics, optics and quantum
+2. Gain pratical experience with soldering and electronics
+3. Earn a RSGB radio intermediate license and build a QRP QMX radio kit
