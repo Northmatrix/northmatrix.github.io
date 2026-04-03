@@ -81,6 +81,17 @@ params:
    #  url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/jrgranite"
+      # CryptoHack — no built-in icon, use a custom one
+    - name: "cryptohack"
+      url: "https://cryptohack.org/user/northmatrix/"
+
+    # TryHackMe — no built-in icon, use a custom one
+    - name: "tryhackme"
+      url: "https://tryhackme.com/p/Northmatrix"
+
+    # pwn.college — no built-in icon, use a custom one
+    - name: "pwncollege"
+      url: "https://pwn.college/hacker/127307"
 
   analytics:
     google:
