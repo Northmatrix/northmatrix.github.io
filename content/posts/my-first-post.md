@@ -23,7 +23,7 @@ My hobbies include but are not limited to:
 
 My goals for the next few years include the following:
 
-1. Gain a underestanding of quantum mechanics using (Griffiths’ "Introduction to Quantum mechanics')
+1. Gain a underestanding of quantum mechanics (Griffiths)
 2. Increase my knowledge of electromagnetics, circuts and optics.
 3. Gain pratical experience with soldering and electronics
 4. Earn a RSGB radio intermediate license and build a QRP QMX radio kit
