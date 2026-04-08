@@ -1,5 +1,5 @@
-baseURL: "https://jrgranite.github.io/"
-title: Jamie Grant | Student
+baseURL: "https://jxgrant.github.io/"
+title: Jamie Grant
 paginatation.pagerSize: 5
 theme: PaperMod
 
@@ -14,8 +14,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Jamie Grant | Student
-  description: "My little blog"
+  title: Jamie Grant
+  description: "A personal blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Jamie
   # author: ["Me", "You"] # multiple authors
@@ -71,8 +71,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Jamie Grant | Student"
-    Content: Welcome to my small blog full of things that i find interesting.
+    Title: "Jamie Grant"
+    Content: Occasionally wcally post updates on projects that i do. 
 
   socialIcons:
    # - name: x
