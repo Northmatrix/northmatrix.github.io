@@ -4,13 +4,14 @@ draft: false
 title: 'Hacking'
 ---
 
-At university i attend a hacking club where i sometimes compete in Capture the flag competitions.
-The main areas that i focus on in these ctfs are cryptography and binary exploitation.
+## Introduction 
 
-## Ctf events
+At university i attend a hacking club where i sometimes compete in Capture the flag competitions, the main areas that i focus on in these ctfs are cryptography and binary exploitation.
 
-Some recent ctfs i have attended during my time at university include:
+## Ctf Events
 
-1. Pwned7 Quals - (Orginized by Uni of Edinbrugh hacking society)
-2. Sheffield Siege - (Organized by Sheffield Hallam university)
+Some ctf's i have attended during my time at university include.
+
+1. Pwned7 Qualifiers
+2. Sheffield Siege
 

@@ -4,17 +4,15 @@ draft: false
 title: 'Electronics'
 ---
 
-Ok so at the moment i have examinations so my main priority is to to study for them.
-However after doing some reaserch on topics to self learn some electronics i have found the following reasource:
+## My Plan 
+
+My plan for the next year is to self learn some electronics supplementing my learning by joining a university society on the topic. Some reasourecs i have found to help me include the follwing:
 
 1. [https://www.electronics-tutorials.ws](https://www.electronics-tutorials.ws)
 
-This seems to be one of the best i could find based on reviews on reddit and after looking it looks pretty solid.
+## Projects
 
-Furthermore i have also decided on the first project i will undertake:
+Some projects i will undertake include the following:
 
 1. Shortwave Radio Transmitter Receiver Kit - Forty-9er 3W
 
-This kit can be found on amazon, ebay and ali express.
-
-It seems this project is a better starting point before buying the £100 QRP QMX kit as i am a begginer at electronics and also broke and cannot afford to break it :(.
