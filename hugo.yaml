@@ -83,11 +83,11 @@ params:
       url: "https://github.com/jrgranite"
     - name: "cryptohack"
       url: "https://cryptohack.org/user/northmatrix/"
-    - name: "tryhackme"
-      url: "https://tryhackme.com/p/Northmatrix"
     - name: "pwncollege"
       url: "https://pwn.college/hacker/127307"
-
+    - name: "tryhackme"
+      url: "https://tryhackme.com/p/Northmatrix"
+  
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
